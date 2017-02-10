@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/activation-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axiom-api-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axiom-dom-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axiom-impl-1.2.8.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/bcel-5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/commons-codec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/commons-fileupload-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/commons-io-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/commons-lang-2.3.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/geronimo-annotation_1.0_spec-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/geronimo-jaxws_2.1_spec-1.0.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/geronimo-saaj_1.3_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/geronimo-stax-api_1.0_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/geronimo-ws-metadata_2.0_spec-1.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/httpcore-4.0.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/jalopy-1.5rc3.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/jaxb-api-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/jaxb-impl-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/jaxb-xjc-2.1.7.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/jettison-1.0-RC2.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/jibx-bind-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/jibx-run-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/mail-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/mex-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/neethi-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/smack-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/smackx-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/soapmonitor-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/woden-api-1.0M8.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/woden-impl-dom-1.0M8.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/wsdl4j-1.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/wstx-asl-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/xalan-2.7.0.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/xercesImpl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/xml-apis-1.3.02.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/xml-resolver-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/XmlSchema-1.4.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Soft/Desktop/eclipse/plugins/org.apache.axis_1.4.0.v201005080400/lib/axis.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Soft/Desktop/eclipse/plugins/org.apache.commons.discovery_0.2.0.v201004190315/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Soft/Desktop/eclipse/plugins/javax.xml.rpc_1.1.0.v201005080400/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Soft/Desktop/eclipse/plugins/javax.xml.soap_1.2.0.v201005080501/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Soft/Desktop/eclipse/plugins/javax.wsdl_1.6.2.v201005080631.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Soft/Desktop/eclipse/plugins/org.apache.commons.logging_1.0.4.v201005080501.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-adb-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-adb-codegen-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-ant-plugin-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-clustering-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-codegen-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-corba-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-fastinfoset-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-java2wsdl-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-jaxbri-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-jaxws-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-jibx-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-json-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-kernel-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-metadata-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-mtompolicy-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-saaj-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-spring-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-transport-http-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-transport-local-1.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/development/workspaces/soccer/betfair/lib/axis2-xmlbeans-1.5.1.jar"/>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="main/java/|test/java/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>

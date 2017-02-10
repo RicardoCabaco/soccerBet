@@ -1,0 +1,65 @@
+package soccerBet.project.main;
+
+ 
+import soccerBet.project.ruleEngine.TempoJogo;
+import soccerBet.project.objects.Jogo;
+import soccerBet.project.objects.Precos;
+import soccerBet.project.main.ServiceManager;
+import soccerBet.project.Calculation.Team;
+import soccerBet.project.ruleEngine.ApostaRule;
+
+global java.util.List list
+
+ 
+
+rule "Regra BetFair"
+    dialect "java"
+    when
+    
+    	teste:ApostaRule(tipoAposta.contains("Mais de 0.5 Golos"))
+    	user:Precos( back >= 1.0);
+    	//and
+    	//t:Team(valueBet>90, favorite == true)
+    	//and
+    	//TempoJogo(minutos>=20)
+    then
+   	   // modify( user ) { setPlacedBet(1) }; tava a entrar em loop por causa do modify interage com o motor
+    	ServiceManager.placeBet(user);
+   	    System.out.println("Bet------------------------------------");
+end
+
+
+rule "Regra BetFair 2"
+    dialect "java"
+    when
+    
+    	teste1:ApostaRule(tipoAposta.contains("Mais de 2.5 Golos"),estado == 0)
+    	and
+    	user1:Precos( back >= 1.2);
+    	//and
+    	//t:Team(valueBet>90, favorite == true)
+    	//and
+    	//TempoJogo(minutos>=20)
+    then
+   	   // modify( user ) { setPlacedBet(1) }; tava a entrar em loop por causa do modify interage com o motor
+    	ServiceManager.placeBet(user1);
+   	    System.out.println("Bet------------------------------------");
+end
+
+rule "Regra BetFair 3"
+    dialect "java"
+    when
+    
+    	teste2:ApostaRule(tipoAposta.contains("Mais de 3.5 Golos"),estado == 0)
+    	and
+    	user2:Precos( back >= 1.2);
+    	//and
+    	//t:Team(valueBet>90, favorite == true)
+    	//and
+    	//TempoJogo(minutos>=20)
+    then
+   	   // modify( user ) { setPlacedBet(1) }; tava a entrar em loop por causa do modify interage com o motor
+    	ServiceManager.placeBet(user2);
+   	    System.out.println("Bet------------------------------------");
+end
+
